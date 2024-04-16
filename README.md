@@ -1,5 +1,6 @@
 # Proyecto_Parcial3
- Este es el repositorio de la materia de programación para videojuegos II
+El código utilizado en este proyecto es el lenguaje C# de programación moderno, basado en objetos y con seguridad de tipos. Tiene raíces en la familia de lenguajes C. C# es un lenguaje orientado a objetos.
+- 
 
 Características:
 -
