@@ -10,6 +10,8 @@ Características:
 - Pasa a la siguiente pregunta después de un tiempo establecido.
 - Proyecta un mensaje dependiendo de respuestas correctas o incorrectas.
 
+![Captura2](https://github.com/CheiJesus09/ProyectoParcial3/assets/163068516/22ec7cd0-f272-43f1-9a1b-92ac4a64b825)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Descarga:
 -
@@ -24,9 +26,12 @@ Espera que la descarga se complete
 
 Ejecuta el archivo
 
+![Captura3](https://github.com/CheiJesus09/ProyectoParcial3/assets/163068516/30ff2116-1926-4b34-bf00-650c5f68642b)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ¿Como se usa?
 -
+
+![Captura1](https://github.com/CheiJesus09/ProyectoParcial3/assets/163068516/72099819-1ea2-423b-b577-abeec436f574)
 
 - La primer pantalla es un menú de selección de lecciones, seleccionar una lección te llevara a un cuestionario de 5 preguntas. Aparecera un pop-up indicando la lección que el usuario este escogiendo, asimismo con un botón para iniciar la lección.
 
