@@ -1,0 +1,65 @@
+{
+  "Lesson": 4,
+  "leccionList": [
+    {
+      "ID": 1,
+      "lesson": "¿Cuál es el método utilizado para inicializar variables en C#?",
+      "options": [
+        "initialize()",
+        "begin()",
+        "start()",
+        "awake()",
+        "init()"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "ID": 2,
+      "lesson": "¿Qué es el método Update() en Unity?",
+      "options": [
+        "Un método para iniciar el juego",
+        "Un método para cargar recursos",
+        "Un método que se llama en cada frame para actualizar el estado del juego",
+        "Un método para detener el juego",
+        "Un método para iniciar la física del juego"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "ID": 3,
+      "lesson": "¿Qué hace el método OnTriggerEnter en Unity?",
+      "options": [
+        "Detecta colisiones con objetos físicos",
+        "Detecta colisiones con objetos no físicos",
+        "Detecta colisiones con objetos en un radio específico",
+        "Detecta colisiones con objetos en movimiento",
+        "Detecta colisiones con objetos estáticos"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "ID": 4,
+      "lesson": "¿Cuál es la función de la clase Debug en Unity?",
+      "options": [
+        "Crear animaciones",
+        "Controlar la iluminación",
+        "Reproducir sonidos",
+        "Facilitar la depuración y el registro de información en la consola",
+        "Detectar colisiones"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "ID": 5,
+      "lesson": "¿Qué es un Array en C#?",
+      "options": [
+        "Una variable que almacena una única pieza de datos",
+        "Una estructura de datos que almacena una colección de elementos del mismo tipo",
+        "Una clase para manipular matrices",
+        "Una clase para dibujar gráficos en 3D",
+        "Una interfaz de usuario"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "Lesson": 1,
+  "leccionList": [
+    {
+      "ID": 1,
+      "lesson": "¿Qué es un prefab?",
+      "options": [
+        "Entidad",
+        "Audio",
+        "Objeto",
+        "Instancia",
+        "Modelo"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "ID": 2,
+      "lesson": "Principal lenguaje en Unity?",
+      "options": [
+        "C#",
+        "Java",
+        "JS",
+        "C++",
+        "Python"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "ID": 3,
+      "lesson": "Función del Rigidbody?",
+      "options": [
+        "Movimiento",
+        "Sonido",
+        "Colisión",
+        "Animación",
+        "Iluminación"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "ID": 4,
+      "lesson": "Propósito del AudioSource?",
+      "options": [
+        "Reproducir",
+        "Detectar",
+        "Crear",
+        "Controlar",
+        "Iluminar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "ID": 5,
+      "lesson": "Motor de física predeterminado?",
+      "options": [
+        "PhysX",
+        "Bullet",
+        "Box2D",
+        "Havok",
+        "ODE"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

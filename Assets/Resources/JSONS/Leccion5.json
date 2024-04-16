@@ -1,0 +1,65 @@
+{
+  "Lesson": 5,
+  "leccionList": [
+    {
+      "ID": 1,
+      "lesson": "¿Qué es un prefab en Unity?",
+      "options": [
+        "Una instancia de GameObject",
+        "Una clase para manipular texturas",
+        "Una función matemática",
+        "Una herramienta de debugging",
+        "Una estructura de datos"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "ID": 2,
+      "lesson": "¿Qué hace el componente Rigidbody en Unity?",
+      "options": [
+        "Controlar el movimiento físico",
+        "Reproducir sonidos",
+        "Detectar colisiones",
+        "Crear animaciones",
+        "Controlar la iluminación"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "ID": 3,
+      "lesson": "¿Cuál es el método que se ejecuta cuando un objeto es destruido en Unity?",
+      "options": [
+        "OnDestroy()",
+        "OnDisable()",
+        "OnStart()",
+        "OnEnable()",
+        "OnAwake()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "ID": 4,
+      "lesson": "¿Qué es el método Start() en Unity?",
+      "options": [
+        "Un método para iniciar el juego",
+        "Un método para actualizar el estado del juego en cada frame",
+        "Un método que se llama cuando un objeto es destruido",
+        "Un método para cargar recursos",
+        "Un método para inicializar variables"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "ID": 5,
+      "lesson": "¿Qué es un bucle en programación?",
+      "options": [
+        "Una herramienta de debugging",
+        "Una estructura de control que repite un bloque de código mientras se cumple una condición",
+        "Un tipo de dato",
+        "Un componente de físicas",
+        "Una clase base en Unity"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

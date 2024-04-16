@@ -1,0 +1,65 @@
+{
+  "Lesson": 3,
+  "leccionList": [
+    {
+      "ID": 1,
+      "lessons": "¿Qué es un GameObject en Unity?",
+      "options": [
+        "Una clase para manejar gráficos 2D",
+        "Un componente para reproducir audio",
+        "Una entidad fundamental en Unity que puede contener componentes",
+        "Un tipo de escena en 3D",
+        "Una función para cargar recursos"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "ID": 2,
+      "lessons": "¿Cuál es el lenguaje de programación principal utilizado en Unity?",
+      "options": [
+        "C++",
+        "Java",
+        "C#",
+        "Python",
+        "JavaScript"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "ID": 3,
+      "lessons": "¿Qué es un componente en Unity?",
+      "options": [
+        "Una instancia de GameObject",
+        "Una clase base de Unity",
+        "Un tipo de escena en 2D",
+        "Una entidad física",
+        "Una pieza de funcionalidad que puede ser adjuntada a un GameObject"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "ID": 4,
+      "lessons": "¿Cuál es el propósito del componente Rigidbody en Unity?",
+      "options": [
+        "Controlar la iluminación",
+        "Detectar colisiones",
+        "Crear animaciones",
+        "Controlar el movimiento físico",
+        "Reproducir sonidos"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "ID": 5,
+      "lessons": "¿Qué es un script en Unity?",
+      "options": [
+        "Un archivo de audio",
+        "Una secuencia de animaciones",
+        "Una clase que contiene código de programación para agregar funcionalidad a GameObjects",
+        "Un archivo de configuración",
+        "Una herramienta de debugging"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

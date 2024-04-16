@@ -1,0 +1,65 @@
+{
+  "Lesson": 2,
+  "leccionList": [
+    {
+      "ID": 1,
+      "lesson": "¿Qué es un GameObject?",
+      "options": [
+        "Entidad",
+        "Audio",
+        "Escena",
+        "Física",
+        "Instancia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "ID": 2,
+      "lesson": "¿Principal lenguaje de programación en Unity?",
+      "options": [
+        "C#",
+        "Java",
+        "JS",
+        "C++",
+        "Python"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "ID": 3,
+      "lesson": "¿Función del componente Rigidbody?",
+      "options": [
+        "Movimiento",
+        "Sonido",
+        "Colisión",
+        "Animación",
+        "Iluminación"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "ID": 4,
+      "lesson": "¿Propósito del componente AudioSource?",
+      "options": [
+        "Reproducir",
+        "Detectar",
+        "Crear",
+        "Controlar",
+        "Iluminar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "ID": 5,
+      "lesson": "¿Motor de física predeterminado en Unity?",
+      "options": [
+        "PhysX",
+        "Bullet",
+        "Box2D",
+        "Havok",
+        "ODE"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}
